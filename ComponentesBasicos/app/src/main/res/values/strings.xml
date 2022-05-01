@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UFC</string>
+    <string name="show_the_text">EXIBIR NOME</string>
+    <string name="enter_text"></string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
